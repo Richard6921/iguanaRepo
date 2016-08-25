@@ -1,0 +1,16 @@
+<channel
+   name="Quick  Test UofT Course"
+   guid="22462E19D10EFAF138515F57B037D444"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_mapper
+      guid="Quick_Test_UofT_Course-From-B3ZpPqhWChOhlx"
+      commit_id="e0f0249d8cf66a6e057a7cce9495a5cc8b86f63f"
+      commit_comment="Commit"
+      poll_time="10000">
+   </from_mapper>
+</channel>

@@ -1,0 +1,13 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [],
+    "OtherDependencies": [
+        "uoft.json"
+    ],
+    "timestamp": "1472149911",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

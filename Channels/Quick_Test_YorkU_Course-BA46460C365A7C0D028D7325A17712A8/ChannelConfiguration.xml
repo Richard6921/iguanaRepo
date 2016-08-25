@@ -1,0 +1,25 @@
+<channel
+   name="Quick Test YorkU Course"
+   guid="BA46460C365A7C0D028D7325A17712A8"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_mapper
+      guid="Quick_Test_YorkU_Course-From-PMaADJY4QSn8Ks"
+      commit_id="2239029f31744ba43cd78a57557a54e4e95f9954"
+      commit_comment="Commit"
+      poll_time="1000000">
+   </from_mapper>
+   <message_filter
+      filter_after_logging="false"
+      log_pre_post_filter_message="true"
+      filter_vmd_path=""
+      transformation_mode="0"
+      scripted_transformation_configuration_name="default"
+      error_handling="0"
+      use_translator_filter="true">
+   </message_filter>
+</channel>
